@@ -1,0 +1,12 @@
+.follow-me {
+	margin-top: 3px;
+	margin-bottom: 10px;
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.follow-me img {
+	margin-right: 5px;
+	border: 1px solid #CCDDEE;
+	cursor: pointer;
+}

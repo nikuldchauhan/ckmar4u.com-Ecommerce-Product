@@ -1,0 +1,2 @@
+[12-Apr-2014 09:46:30 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/affiliate/affiliate.php on line 2
+[12-Apr-2014 09:46:51 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/affiliate/transaction.php on line 2

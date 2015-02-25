@@ -1,0 +1,9 @@
+[12-Apr-2014 09:44:30 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/account/order.php on line 2
+[12-Apr-2014 09:44:40 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/account/reward.php on line 2
+[12-Apr-2014 09:44:50 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/account/return.php on line 2
+[12-Apr-2014 09:45:26 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/account/address.php on line 2
+[12-Apr-2014 09:45:34 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/account/download.php on line 2
+[12-Apr-2014 09:45:52 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/account/customer.php on line 2
+[12-Apr-2014 09:46:02 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/account/recurring.php on line 2
+[12-Apr-2014 09:46:25 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/account/transaction.php on line 2
+[12-Apr-2014 09:47:11 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/account/customer_group.php on line 2

@@ -1,0 +1,11 @@
+[12-Apr-2014 09:43:30 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/tax.php on line 2
+[12-Apr-2014 09:43:37 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/total.php on line 2
+[12-Apr-2014 09:43:40 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/credit.php on line 2
+[12-Apr-2014 09:43:43 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/reward.php on line 2
+[12-Apr-2014 09:43:46 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/coupon.php on line 2
+[12-Apr-2014 09:44:02 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/voucher.php on line 2
+[12-Apr-2014 09:44:35 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/shipping.php on line 2
+[12-Apr-2014 09:45:03 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/handling.php on line 2
+[12-Apr-2014 09:45:29 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/sub_total.php on line 2
+[12-Apr-2014 09:45:47 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/klarna_fee.php on line 2
+[12-Apr-2014 09:46:36 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/total/low_order_fee.php on line 2

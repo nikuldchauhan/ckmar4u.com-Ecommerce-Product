@@ -1,0 +1,85 @@
+/*--------------------------------------------------------------------------/
+* @Author		KulerThemes.com http://www.kulerthemes.com
+* @Copyright	Copyright (C) 2012 - 2013 KulerThemes.com. All rights reserved.
+* @License		KulerThemes.com Proprietary License
+/---------------------------------------------------------------------------*/
+
+/* =============== PREDEFINED COLORS - TEAL =============== */
+/* DEFAULT HTML - LINK STYLES */
+.color-teal a {
+	color: #4B8B83;
+}
+/* DEFAULT HTML - BUTTONS */
+.color-teal .button {
+	/*background-color: #6EC8BC;*/
+	background-color: #A00B00;
+}
+/* HEADER */
+.color-teal #header {
+	background-image:url(../image/backgrounds/dark1.gif);
+	/*background-repeat:repeat;*/
+}
+.color-teal #topbar #currency a {
+	background-color:#FFF;
+}
+.color-teal #topbar #currency a.current {
+	color: #FFF;
+}
+/* MENU */
+.color-teal .mainmenu > li:hover > a,
+.color-teal .mainmenu > li.active > a {
+	background-color:#000;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+}
+/* breadcrumb */
+.color-teal .breadcrumb a:last-child {
+	color: #4B8B83;
+}
+/* treemenu */
+.color-teal .treemenu li a:hover,
+.color-teal .treemenu li a.active {
+	color: #4B8B83;
+}
+/* table */
+.color-teal .pagination .links b,
+.color-teal .pagination .links a:hover {
+	background-color: #A00B00;
+}
+/* box */
+.color-teal .box-product .name a:hover {
+	color: #4B8B83;
+}
+/* box products */
+.color-teal .box-product .details {
+	border: 1px solid #6EC8BC;
+	border-top: none;
+}
+/* products list */
+.color-teal .product-list > div:hover {
+	border: 1px solid #6EC8BC;
+}
+/* products grid */
+.color-teal .product-grid > div:hover {
+	border-color: #6EC8BC;
+}
+/* box products - inside content */
+.color-teal .box-product .price div {
+	background-color: #6EC8BC;
+}
+.color-teal .box-product .wishlist a:hover,
+.color-teal .box-product .compare a:hover {
+	color: #4B8B83;
+}
+/* Product */
+.color-teal .product-info .price div {
+	background-color: #6EC8BC;
+}
+.color-teal .product-filter .display span,
+.color-teal .product-filter .display a:hover {
+	color: #4B8B83;
+}
+/* CHECKOUT */
+.color-teal .checkout-heading {
+	background-color: #A00B00;
+}

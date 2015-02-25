@@ -1,0 +1,28 @@
+[18-Mar-2014 12:19:04 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php on line 6
+[18-Mar-2014 12:19:04 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (2002) Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php:9
+Stack trace:
+#0 /home1/archert2/public_html/hosting/jaycreation/vqmod/vqcache/vq2-system_library_db.php(13): DBMySQLi->__construct('localhost', 'archert2_jay', 'jay121creation', 'archert2_jaycre...')
+#1 /home1/archert2/public_html/hosting/jaycreation/admin/index.php(41): DB->__construct('mysqli', 'localhost', 'archert2_jay', 'jay121creation', 'archert2_jaycre...')
+#2 {main}
+  thrown in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php on line 9
+[18-Mar-2014 12:19:06 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php on line 6
+[18-Mar-2014 12:19:06 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (2002) Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php:9
+Stack trace:
+#0 /home1/archert2/public_html/hosting/jaycreation/vqmod/vqcache/vq2-system_library_db.php(13): DBMySQLi->__construct('localhost', 'archert2_jay', 'jay121creation', 'archert2_jaycre...')
+#1 /home1/archert2/public_html/hosting/jaycreation/admin/index.php(41): DB->__construct('mysqli', 'localhost', 'archert2_jay', 'jay121creation', 'archert2_jaycre...')
+#2 {main}
+  thrown in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php on line 9
+[18-Mar-2014 12:19:09 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php on line 6
+[18-Mar-2014 12:19:09 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (2002) Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php:9
+Stack trace:
+#0 /home1/archert2/public_html/hosting/jaycreation/vqmod/vqcache/vq2-system_library_db.php(13): DBMySQLi->__construct('localhost', 'archert2_jay', 'jay121creation', 'archert2_jaycre...')
+#1 /home1/archert2/public_html/hosting/jaycreation/admin/index.php(41): DB->__construct('mysqli', 'localhost', 'archert2_jay', 'jay121creation', 'archert2_jaycre...')
+#2 {main}
+  thrown in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php on line 9
+[18-Mar-2014 12:19:12 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php on line 6
+[18-Mar-2014 12:19:12 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Error: Could not make a database link (2002) Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php:9
+Stack trace:
+#0 /home1/archert2/public_html/hosting/jaycreation/vqmod/vqcache/vq2-system_library_db.php(13): DBMySQLi->__construct('localhost', 'archert2_jay', 'jay121creation', 'archert2_jaycre...')
+#1 /home1/archert2/public_html/hosting/jaycreation/admin/index.php(41): DB->__construct('mysqli', 'localhost', 'archert2_jay', 'jay121creation', 'archert2_jaycre...')
+#2 {main}
+  thrown in /home1/archert2/public_html/hosting/jaycreation/system/database/mysqli.php on line 9

@@ -1,0 +1,2 @@
+[12-Apr-2014 09:44:04 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/tool/image.php on line 2
+[12-Apr-2014 09:44:07 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/tool/online.php on line 2

@@ -1,0 +1,12 @@
+[12-Apr-2014 09:43:56 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/ups.php on line 2
+[12-Apr-2014 09:44:14 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/flat.php on line 2
+[12-Apr-2014 09:44:20 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/item.php on line 2
+[12-Apr-2014 09:44:22 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/usps.php on line 2
+[12-Apr-2014 09:44:25 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/free.php on line 2
+[12-Apr-2014 09:45:06 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/fedex.php on line 2
+[12-Apr-2014 09:45:14 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/weight.php on line 2
+[12-Apr-2014 09:45:24 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/pickup.php on line 2
+[12-Apr-2014 09:45:39 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/auspost.php on line 2
+[12-Apr-2014 09:45:55 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/citylink.php on line 2
+[12-Apr-2014 09:46:33 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/royal_mail.php on line 2
+[12-Apr-2014 09:47:17 America/Chicago] PHP Fatal error:  Class 'Model' not found in /home/jaycre/public_html/catalog/model/shipping/parcelforce_48.php on line 2

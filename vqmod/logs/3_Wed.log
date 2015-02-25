@@ -1,0 +1,19 @@
+---------- Date: 2014-06-25 08:58:56 ~ IP : 180.76.5.155 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=60&amp;sort=p.model&amp;order=DESC&amp;limit=15
+MOD DETAILS:
+   modFile   : /home/jaycre/public_html/vqmod/xml/image-expand-in-cat.xml
+   id        : AutoRelated Products
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : roma
+
+File Name    : catalog/controller/product/category.php(0)
+VQModObject::applyMod - INVALID REGEX ERROR - if ($category_info['image']) {
+				$this->data['thumb'] = $this->model_tool_image->resize($category_info['image'], $this->config->get('config_image_category_width'), $this->config->get('config_image_category_height'));
+			} else {
+				$this->data['thumb'] = '';
+			}
+
+----------------------------------------------------------------------
+
+
